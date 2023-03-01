@@ -7,14 +7,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Podcasting With Jekyll</title>
-  <meta name="description" content="Link Rot is a discussion held at the intersection of life and technology. Each week we dive into a subject that explores the changes going on in digital technology and the way it affects our lives. We discuss how technology impacts our very humanity and aim to have some fun along the way!">
+  <meta name="description" content="This is a discussion between Seth and Shannon, and sometimes other friends.">
     
 
 <!-- Style Sheets -->
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://linkrot.net/podcast">
-  <link rel="alternate" type="application/rss+xml" title="Link Rot" href="http://linkrot.net/podcast.xml">
-  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+  <link rel="stylesheet" href="/wonder-and-welcome-podcast/css/main.css">
+  <link rel="canonical" href="http://wonderandwelcome.com/wonder-and-welcome-podcast/podcast">
+  <link rel="alternate" type="application/rss+xml" title="Wonder & Welcome" href="http://wonderandwelcome.com/wonder-and-welcome-podcast/podcast.xml">
   
 <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -26,28 +25,21 @@
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#323232">  
     
-<!-- Twitter -->
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@LinkRotPodcast" />
-    <meta name="twitter:title" content="Podcasting With Jekyll" />
-    <meta name="twitter:description" content="" />
-    <meta name="twitter:image" content="http://linkrot.net/images/itunes.png" />    
-    
 </head>
 
 
 <body>
     <div class="wrapper">
       <header class="gradient">
-        <div class="logo"><a href="/index.html"><img src="/images/LinkRot-logo-rev-sq.png" height="100%"><h1 class="hidden">Link Rot</h1></a></div>
+        <div class="logo"><a href="/wonder-and-welcome-podcast/index.html"><img src="/wonder-and-welcome-podcast/images/wonder-and-welcome-logo.png" height="100%"><h1 class="hidden">Wonder & Welcome</h1></a></div>
 </header>
 
 
       <nav>
     <ul>
-        <li><a href="/about.html">About</a></li>
+        <li><a href="/wonder-and-welcome-podcast/about.html">About</a></li>
         <li><a href="https://itunes.apple.com/au/podcast/link-rot/id1164283834?mt=2">iTunes</a></li>
-        <li><a href="/podcast.xml">RSS</a></li>
+        <li><a href="/wonder-and-welcome-podcast/podcast.xml">RSS</a></li>
     </ul> 
 </nav>
 
@@ -80,20 +72,19 @@
 
 <p><strong>5.</strong> Create a new post in Markdown and add in the relevant front matter to the YAML section</p>
 
-<div class="language-yaml highlighter-rouge"><pre class="highlight"><code><span class="s">layout</span><span class="pi">:</span> <span class="s">post</span>
-<span class="s">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Title</span><span class="nv"> </span><span class="s">Goes</span><span class="nv"> </span><span class="s">Here"</span>
-<span class="s">date</span><span class="pi">:</span> <span class="s">Publishing date and time</span>
-<span class="s">file</span><span class="pi">:</span> <span class="s">link to file in S3</span>
-<span class="s">summary</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Quick</span><span class="nv"> </span><span class="s">exerpt</span><span class="nv"> </span><span class="s">of</span><span class="nv"> </span><span class="s">episode"</span>
-<span class="s">description</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Longer</span><span class="nv"> </span><span class="s">information"</span>
-<span class="s">duration</span><span class="pi">:</span> <span class="s2">"</span><span class="s">how</span><span class="nv"> </span><span class="s">long</span><span class="nv"> </span><span class="s">in</span><span class="nv"> </span><span class="s">minutes</span><span class="nv"> </span><span class="s">and</span><span class="nv"> </span><span class="s">seconds"</span> 
-<span class="s">length</span><span class="pi">:</span> <span class="s2">"</span><span class="s">in</span><span class="nv"> </span><span class="s">seconds"</span>
-<span class="s">explicit</span><span class="pi">:</span> <span class="s2">"</span><span class="s">do</span><span class="nv"> </span><span class="s">we</span><span class="nv"> </span><span class="s">swear"</span> 
-<span class="s">keywords</span><span class="pi">:</span> <span class="s2">"</span><span class="s">keyword</span><span class="nv"> </span><span class="s">tags"</span>
-<span class="s">block</span><span class="pi">:</span> <span class="s2">"</span><span class="s">hold</span><span class="nv"> </span><span class="s">back</span><span class="nv"> </span><span class="s">publishing</span><span class="nv"> </span><span class="s">it"</span> 
-<span class="s">voices</span><span class="pi">:</span> <span class="s2">"</span><span class="s">who</span><span class="nv"> </span><span class="s">did</span><span class="nv"> </span><span class="s">the</span><span class="nv"> </span><span class="s">talking"</span>
-</code></pre>
-</div>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Title</span><span class="nv"> </span><span class="s">Goes</span><span class="nv"> </span><span class="s">Here"</span>
+<span class="na">date</span><span class="pi">:</span> <span class="s">Publishing date and time</span>
+<span class="na">file</span><span class="pi">:</span> <span class="s">link to file in S3</span>
+<span class="na">summary</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Quick</span><span class="nv"> </span><span class="s">exerpt</span><span class="nv"> </span><span class="s">of</span><span class="nv"> </span><span class="s">episode"</span>
+<span class="na">description</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Longer</span><span class="nv"> </span><span class="s">information"</span>
+<span class="na">duration</span><span class="pi">:</span> <span class="s2">"</span><span class="s">how</span><span class="nv"> </span><span class="s">long</span><span class="nv"> </span><span class="s">in</span><span class="nv"> </span><span class="s">minutes</span><span class="nv"> </span><span class="s">and</span><span class="nv"> </span><span class="s">seconds"</span> 
+<span class="na">length</span><span class="pi">:</span> <span class="s2">"</span><span class="s">in</span><span class="nv"> </span><span class="s">seconds"</span>
+<span class="na">explicit</span><span class="pi">:</span> <span class="s2">"</span><span class="s">do</span><span class="nv"> </span><span class="s">we</span><span class="nv"> </span><span class="s">swear"</span> 
+<span class="na">keywords</span><span class="pi">:</span> <span class="s2">"</span><span class="s">keyword</span><span class="nv"> </span><span class="s">tags"</span>
+<span class="na">block</span><span class="pi">:</span> <span class="s2">"</span><span class="s">hold</span><span class="nv"> </span><span class="s">back</span><span class="nv"> </span><span class="s">publishing</span><span class="nv"> </span><span class="s">it"</span> 
+<span class="na">voices</span><span class="pi">:</span> <span class="s2">"</span><span class="s">who</span><span class="nv"> </span><span class="s">did</span><span class="nv"> </span><span class="s">the</span><span class="nv"> </span><span class="s">talking"</span>
+</code></pre></div></div>
 
 <p><strong>6.</strong> Add links and show notes to the content section.</p>
 
@@ -118,7 +109,7 @@
       <footer>
 
 <div class="container">
-    <p>Subscribe <a href="/podcast.xml">via RSS</a> or <a href="https://itunes.apple.com/au/podcast/link-rot/id1164283834?mt=2">iTunes</a>| Link Rot is <a href="/podcast.html">made by hand and with love</a> | Licensed under CC-BY</p>
+    <p>Subscribe <a href="/wonder-and-welcome-podcast/podcast.xml">via RSS</a> or <a href="https://itunes.apple.com/au/podcast/link-rot/id1164283834?mt=2">iTunes</a>| Wonder & Welcome is <a href="/wonder-and-welcome-podcast/podcast.html">made by hand and with love</a> | Licensed under CC-BY</p>
 </div>    
 
 </footer>

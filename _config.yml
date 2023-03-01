@@ -6,22 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Link Rot
-email: info@linkrot.net
-description: "Link Rot is a discussion held at the intersection of life and technology. Each week we dive into a subject that explores the changes going on in digital technology and the way it affects our lives. We discuss how technology impacts our very humanity and aim to have some fun along the way!"
-subtitle: "A discussion from the intersection of life & technology."
+title: Wonder & Welcome 
+email: info@reallyseth.com
+description: "This is a discussion between Seth and Shannon, and sometimes other friends."
+subtitle: "A podcast about parenting and following Jesus."
 lang: en-us
-author: Tim Klapdor, Adam Webster &amp; Ben Atkinson
-copyright: "&#xA9; 2015"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://linkrot.net" # the base hostname & protocol for your site
-twitter_username: timklapdor
-github_username:  timklapdor
+author: Seth Hein, Shannon Hein
+copyright: "&#xA9; 2023"
+baseurl: "/wonder-and-welcome-podcast" # the subpath of your site, e.g. /blog
+url: "http://wonderandwelcome.com" # the base hostname & protocol for your site
+twitter_username: reallyseth
+github_username:  reallyseth
 
 permalink: /:year/:title.html
 
 #Timezone
-timezone: Australia/Sydney
+timezone: North America/Chicago
 
 #Setup for Pages
 include: ['_pages']
