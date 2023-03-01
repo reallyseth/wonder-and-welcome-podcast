@@ -14,8 +14,8 @@ subtitle: "A podcast about parenting and following Jesus."
 lang: en-us
 author: Seth Hein, Shannon Hein
 copyright: "&#xA9; 2023"
-baseurl: "/wonder-and-welcome-podcast" # the subpath of your site, e.g. /blog
-url: "http://wonderandwelcome.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.wonderandwelcome.com" # the base hostname & protocol for your site
 twitter_username: reallyseth
 github_username:  reallyseth
 
