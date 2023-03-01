@@ -15,7 +15,7 @@ lang: en-us
 author: Seth Hein, Shannon Hein
 copyright: "&#xA9; 2023"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.wonderandwelcome.com" # the base hostname & protocol for your site
+url: "https://www.wonderandwelcome.com" # the base hostname & protocol for your site
 twitter_username: reallyseth
 github_username:  reallyseth
 
