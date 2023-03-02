@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/" xml:lang="en-us">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
     <channel>
-		<atom:link href="http://www.wonderandwelcome.com/podcast.rss" rel="self" type="application/rss+xml" />
-		<title>Wonder & Welcome</title>
-		<link>http://www.wonderandwelcome.com</link>
+		<title>Wonder &amp; Welcome</title>
+		<link>https://www.wonderandwelcome.com</link>
 		<language>en-us</language>
-        <copyright>&#xA9; 2023 Wonder & Welcome</copyright>
+        <copyright>&#xA9; 2023 Wonder &amp; Welcome</copyright>
 		<itunes:subtitle>A podcast about parenting and following Jesus.</itunes:subtitle>
         <itunes:author>Seth Hein, Shannon Hein</itunes:author>
 		<itunes:summary>Parenting is hard! We know, we&apos;ve been in the middle of it for over a decade. And we have needed a lot of help and encouragement along the way. That&apos;s why we wanted to create the &lt;em&gt;Wonder &amp; Welcome&lt;/em&gt; podcast. We&apos;ve received so much help and support, we want to share some of that with you. We&apos;d always appreciate your feedback and you can get in touch with us on &lt;a href=&apos;mailto:info@reallyseth.com?subject=Wonder &amp; Welcome Podcast&apos;&gt;email&lt;/a&gt; and  or on &lt;a href=&apos;http://instagram.com/reallyseth&apos;&gt;instagram&lt;/a&gt;!</itunes:summary>
@@ -15,7 +15,7 @@
 			<itunes:name>Seth Hein, Shannon Hein</itunes:name>
 			<itunes:email>info@reallyseth.com</itunes:email>
 		</itunes:owner>
-        <itunes:image href="http://www.wonderandwelcome.com/images/itunes.png" />
+        <itunes:image href="https://www.wonderandwelcome.com/images/itunes.png" />
 		<itunes:category text="Technology" />
 		<itunes:category text="Society &amp; Culture" />
         <itunes:category text="Education">
@@ -27,15 +27,15 @@
         <item>
             <title>1: Encouragers and Squashers</title>
             <itunes:author>Seth Hein, Shannon Hein</itunes:author>
-            <itunes:subtitle>Wonder &amp; Welcome: 1: Encouragers and Squashers</itunes:subtitle>
+            <itunes:subtitle>Wonder &amp;amp; Welcome: 1: Encouragers and Squashers</itunes:subtitle>
             <itunes:summary>Seth and Shannon make introductions, explain the meaning behind the name Wonder &amp; Welcome, and share stories of encouraging and squashing wonder and welcome.</itunes:summary>
-            <itunes:image href="http://www.wonderandwelcome.com/images/itunes.png" />
+            <itunes:image href="https://www.wonderandwelcome.com/images/itunes.png" />
             <enclosure url="https://wonder-and-welcome-podcast.s3.us-east-2.amazonaws.com/waw001.mp3" length="1419" type="audio/mp3"/>
-            <guid isPermaLink="true">http://www.wonderandwelcome.com/2023/episode-001.html</guid>
+            <guid isPermaLink="true">https://www.wonderandwelcome.com/2023/episode-001.html</guid>
             <pubDate>Tue, 28 Feb 2023 04:00:00 +0000</pubDate>
             <itunes:duration>23:39</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>Seth and Shannon make introductions, explain the meaning behind the name Wonder &amp; Welcome, and share stories of encouraging and squashing wonder and welcome.  Show Notes Available at http://www.wonderandwelcome.com/2023/episode-001.html.</description>
+            <description>Seth and Shannon make introductions, explain the meaning behind the name Wonder &amp; Welcome, and share stories of encouraging and squashing wonder and welcome.  Show Notes Available at https://www.wonderandwelcome.com/2023/episode-001.html.</description>
             <itunes:keywords>parenting, children, Jesus, discipleship</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
