@@ -3,7 +3,7 @@
 
     <channel>
 		<title>Wonder &amp; Welcome</title>
-		<link>https://www.wonderandwelcome.com</link>
+		<link>http://localhost:4000</link>
 		<language>en-us</language>
         <copyright>&#xA9; 2023 Wonder &amp; Welcome</copyright>
 		<itunes:subtitle>A podcast about parenting and following Jesus.</itunes:subtitle>
@@ -15,7 +15,7 @@
 			<itunes:name>Seth Hein, Shannon Hein</itunes:name>
 			<itunes:email>info@reallyseth.com</itunes:email>
 		</itunes:owner>
-        <itunes:image href="https://www.wonderandwelcome.com/images/itunes.png" />
+        <itunes:image href="http://localhost:4000/images/itunes.png" />
 		<itunes:category text="Technology" />
 		<itunes:category text="Society &amp; Culture" />
         <itunes:category text="Education">
@@ -29,13 +29,13 @@
             <itunes:author>Seth Hein, Shannon Hein</itunes:author>
             <itunes:subtitle>Wonder &amp;amp; Welcome: 1: Encouragers and Squashers</itunes:subtitle>
             <itunes:summary>Seth and Shannon make introductions, explain the meaning behind the name Wonder &amp; Welcome, and share stories of encouraging and squashing wonder and welcome.</itunes:summary>
-            <itunes:image href="https://www.wonderandwelcome.com/images/itunes.png" />
+            <itunes:image href="http://localhost:4000/images/itunes.png" />
             <enclosure url="https://wonder-and-welcome-podcast.s3.us-east-2.amazonaws.com/waw001.mp3" length="1419" type="audio/mp3"/>
-            <guid isPermaLink="true">https://www.wonderandwelcome.com/2023/episode-001.html</guid>
+            <guid isPermaLink="true">http://localhost:4000/2023/episode-001.html</guid>
             <pubDate>Tue, 28 Feb 2023 04:00:00 +0000</pubDate>
             <itunes:duration>23:39</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>Seth and Shannon make introductions, explain the meaning behind the name Wonder &amp; Welcome, and share stories of encouraging and squashing wonder and welcome.  Show notes available at https://www.wonderandwelcome.com/2023/episode-001.html</description>
+            <description>Seth and Shannon make introductions, explain the meaning behind the name Wonder &amp; Welcome, and share stories of encouraging and squashing wonder and welcome.  Show notes available at http://localhost:4000/2023/episode-001.html</description>
             <itunes:keywords>parenting, children, Jesus, discipleship</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
