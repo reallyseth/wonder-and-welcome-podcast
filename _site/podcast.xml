@@ -25,6 +25,22 @@
 		
 
         <item>
+            <title>2: Not Unsolicited Comments</title>
+            <itunes:author>Seth Hein, Shannon Hein</itunes:author>
+            <itunes:subtitle>Wonder &amp;amp; Welcome: 2: Not Unsolicited Comments</itunes:subtitle>
+            <itunes:summary>Input can feel like an attack, but it is often a gift. In this episode, Seth and Shannon discuss the importance of receiving input and feedback in parenting.</itunes:summary>
+            <itunes:image href="http://localhost:4000/images/itunes.png" />
+            <enclosure url="https://wonder-and-welcome-podcast.s3.us-east-2.amazonaws.com/wow002.mp3" length="961" type="audio/mp3"/>
+            <guid isPermaLink="true">http://localhost:4000/2023/episode-002.html</guid>
+            <pubDate>Wed, 15 Mar 2023 04:00:00 +0000</pubDate>
+            <itunes:duration>16:01</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Input can feel like an attack, but it is often a gift. In this episode, Seth and Shannon discuss the importance of receiving input and feedback in parenting.  Show notes available at http://localhost:4000/2023/episode-002.html</description>
+            <itunes:keywords>parenting, children, Jesus, discipleship</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>1: Encouragers and Squashers</title>
             <itunes:author>Seth Hein, Shannon Hein</itunes:author>
             <itunes:subtitle>Wonder &amp;amp; Welcome: 1: Encouragers and Squashers</itunes:subtitle>
