@@ -15,15 +15,17 @@
         <description>{{ site.description | xml_escape }}</description>
 		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
         <itunes:owner>
-			<itunes:name>{{ site.author }}</itunes:name>
-			<itunes:email>{{ site.email }}</itunes:email>
-		</itunes:owner>
-        <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/itunes.png" />
-		<itunes:category text="Technology" />
-		<itunes:category text="Society &amp; Culture" />
-        <itunes:category text="Education">
-            <itunes:category text="Educational Technology" />
-        </itunes:category> 
+	  <itunes:name>{{ site.author }}</itunes:name>
+	  <itunes:email>{{ site.email }}</itunes:email>
+	</itunes:owner>
+	<itunes:image href="{{ site.url }}{{ site.baseurl }}/images/itunes.png" />
+	<itunes:category text="Kids &amp; Family">
+	  <itunes:category text="Parenting" />
+	</itunes:category>
+	<itunes:category text="Religion &amp; Spirituality">
+	  <itunes:category text="Christianity" />
+	</itunes:category>
+
         <itunes:explicit>no</itunes:explicit>
 		
 {% for post in site.posts %}
