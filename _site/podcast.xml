@@ -3,7 +3,7 @@
 
     <channel>
 		<title>Wonder &amp; Welcome</title>
-		<link>https://www.wonderandwelcome.com</link>
+		<link>http://localhost:4000</link>
 		<language>en-us</language>
         <copyright>&#xA9; 2023 Wonder &amp; Welcome</copyright>
 		<itunes:subtitle>A podcast about parenting and following Jesus.</itunes:subtitle>
@@ -15,7 +15,7 @@
 	  <itunes:name>Seth Hein, Shannon Hein</itunes:name>
 	  <itunes:email>info@reallyseth.com</itunes:email>
 	</itunes:owner>
-	<itunes:image href="https://www.wonderandwelcome.com/images/itunes.png" />
+	<itunes:image href="http://localhost:4000/images/itunes.png" />
 	<itunes:category text="Kids &amp; Family">
 	  <itunes:category text="Parenting" />
 	</itunes:category>
@@ -27,17 +27,33 @@
 		
 
         <item>
+            <title>4: A Communicative God</title>
+            <itunes:author>Seth Hein, Shannon Hein</itunes:author>
+            <itunes:subtitle>Wonder &amp;amp; Welcome: 4: A Communicative God</itunes:subtitle>
+            <itunes:summary>In this episode, we welcome our very first guest parents and talk about prayer, community, and the importance of working together.</itunes:summary>
+            <itunes:image href="http://localhost:4000/images/itunes.png" />
+            <enclosure url="https://wonder-and-welcome-podcast.s3.us-east-2.amazonaws.com/wow004.mp3" length="2918" type="audio/mp3"/>
+            <guid isPermaLink="true">http://localhost:4000/2023/episode-004.html</guid>
+            <pubDate>Mon, 17 Apr 2023 23:00:00 +0000</pubDate>
+            <itunes:duration>48:38</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>In this episode, we welcome our very first guest parents and talk about prayer, community, and the importance of working together.  Show notes available at http://localhost:4000/2023/episode-004.html</description>
+            <itunes:keywords>parenting, children, Jesus, discipleship</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>3: Special Introductions</title>
             <itunes:author>Seth Hein, Shannon Hein</itunes:author>
             <itunes:subtitle>Wonder &amp;amp; Welcome: 3: Special Introductions</itunes:subtitle>
             <itunes:summary>Today we are sharing with you a parenting seminar from the Confluence 2023 conference, with 4 of our favorite people: Rick and Gayle Hein, and Curt and Brenda McCutchan. Over the next few episodes we will be having both couples on as guests to share more wisdom, insights, and stories!</itunes:summary>
-            <itunes:image href="https://www.wonderandwelcome.com/images/itunes.png" />
+            <itunes:image href="http://localhost:4000/images/itunes.png" />
             <enclosure url="https://wonder-and-welcome-podcast.s3.us-east-2.amazonaws.com/wow003.mp3" length="3900" type="audio/mp3"/>
-            <guid isPermaLink="true">https://www.wonderandwelcome.com/2023/episode-003.html</guid>
+            <guid isPermaLink="true">http://localhost:4000/2023/episode-003.html</guid>
             <pubDate>Wed, 29 Mar 2023 22:00:00 +0000</pubDate>
             <itunes:duration>65:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>Today we are sharing with you a parenting seminar from the Confluence 2023 conference, with 4 of our favorite people: Rick and Gayle Hein, and Curt and Brenda McCutchan. Over the next few episodes we will be having both couples on as guests to share more wisdom, insights, and stories!  Show notes available at https://www.wonderandwelcome.com/2023/episode-003.html</description>
+            <description>Today we are sharing with you a parenting seminar from the Confluence 2023 conference, with 4 of our favorite people: Rick and Gayle Hein, and Curt and Brenda McCutchan. Over the next few episodes we will be having both couples on as guests to share more wisdom, insights, and stories!  Show notes available at http://localhost:4000/2023/episode-003.html</description>
             <itunes:keywords>parenting, children, Jesus, discipleship</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -47,13 +63,13 @@
             <itunes:author>Seth Hein, Shannon Hein</itunes:author>
             <itunes:subtitle>Wonder &amp;amp; Welcome: 2: Not Unsolicited Comments</itunes:subtitle>
             <itunes:summary>Input can feel like an attack, but it is often a gift. In this episode, Seth and Shannon discuss the importance of receiving input and feedback in parenting.</itunes:summary>
-            <itunes:image href="https://www.wonderandwelcome.com/images/itunes.png" />
+            <itunes:image href="http://localhost:4000/images/itunes.png" />
             <enclosure url="https://wonder-and-welcome-podcast.s3.us-east-2.amazonaws.com/wow002.mp3" length="961" type="audio/mp3"/>
-            <guid isPermaLink="true">https://www.wonderandwelcome.com/2023/episode-002.html</guid>
+            <guid isPermaLink="true">http://localhost:4000/2023/episode-002.html</guid>
             <pubDate>Wed, 15 Mar 2023 04:00:00 +0000</pubDate>
             <itunes:duration>16:01</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>Input can feel like an attack, but it is often a gift. In this episode, Seth and Shannon discuss the importance of receiving input and feedback in parenting.  Show notes available at https://www.wonderandwelcome.com/2023/episode-002.html</description>
+            <description>Input can feel like an attack, but it is often a gift. In this episode, Seth and Shannon discuss the importance of receiving input and feedback in parenting.  Show notes available at http://localhost:4000/2023/episode-002.html</description>
             <itunes:keywords>parenting, children, Jesus, discipleship</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -63,13 +79,13 @@
             <itunes:author>Seth Hein, Shannon Hein</itunes:author>
             <itunes:subtitle>Wonder &amp;amp; Welcome: 1: Encouragers and Squashers</itunes:subtitle>
             <itunes:summary>Seth and Shannon make introductions, explain the meaning behind the name Wonder &amp; Welcome, and share stories of encouraging and squashing wonder and welcome.</itunes:summary>
-            <itunes:image href="https://www.wonderandwelcome.com/images/itunes.png" />
+            <itunes:image href="http://localhost:4000/images/itunes.png" />
             <enclosure url="https://wonder-and-welcome-podcast.s3.us-east-2.amazonaws.com/waw001.mp3" length="1419" type="audio/mp3"/>
-            <guid isPermaLink="true">https://www.wonderandwelcome.com/2023/episode-001.html</guid>
+            <guid isPermaLink="true">http://localhost:4000/2023/episode-001.html</guid>
             <pubDate>Tue, 28 Feb 2023 04:00:00 +0000</pubDate>
             <itunes:duration>23:39</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>Seth and Shannon make introductions, explain the meaning behind the name Wonder &amp; Welcome, and share stories of encouraging and squashing wonder and welcome.  Show notes available at https://www.wonderandwelcome.com/2023/episode-001.html</description>
+            <description>Seth and Shannon make introductions, explain the meaning behind the name Wonder &amp; Welcome, and share stories of encouraging and squashing wonder and welcome.  Show notes available at http://localhost:4000/2023/episode-001.html</description>
             <itunes:keywords>parenting, children, Jesus, discipleship</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
