@@ -27,6 +27,22 @@
 		
 
         <item>
+            <title>5: In Alphabetical Order</title>
+            <itunes:author>Seth Hein, Shannon Hein</itunes:author>
+            <itunes:subtitle>Wonder &amp;amp; Welcome: 5: In Alphabetical Order</itunes:subtitle>
+            <itunes:summary>In this episode, we talk with the hilariously wonderful Curt and Brenda McCutchan.</itunes:summary>
+            <itunes:image href="http://localhost:4000/images/itunes.png" />
+            <enclosure url="https://wonder-and-welcome-podcast.s3.us-east-2.amazonaws.com/wow005.mp3" length="3222" type="audio/mp3"/>
+            <guid isPermaLink="true">http://localhost:4000/2023/episode-005.html</guid>
+            <pubDate>Tue, 30 May 2023 18:00:00 +0000</pubDate>
+            <itunes:duration>53:42</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>In this episode, we talk with the hilariously wonderful Curt and Brenda McCutchan.  Show notes available at http://localhost:4000/2023/episode-005.html</description>
+            <itunes:keywords>parenting, children, Jesus, discipleship</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>4: A Communicative God</title>
             <itunes:author>Seth Hein, Shannon Hein</itunes:author>
             <itunes:subtitle>Wonder &amp;amp; Welcome: 4: A Communicative God</itunes:subtitle>
