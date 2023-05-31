@@ -593,3 +593,10 @@
 
 .plyr button {
   margin-bottom: 0px; }
+
+.cards {
+  padding-bottom: 20px;
+  margin-bottom: 20px; }
+
+.cards.first {
+  border-bottom: 1px solid #ddd; }

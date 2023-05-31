@@ -20,13 +20,13 @@ layout: default
                 <a href="{{ first_post.file }}" class="button button-primary" download="{{ first_post.title }}">Download Now</a>    
             </div>
         </div>            
-        </div>
-    
+      </div>
+      <h2>Past Episodes</h2> 
     {% for post in site.posts offset:1 %}
         <div class="cards">
-        <h2>
+        <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        </h3>
         <p class="meta">{{ post.date | date: "%b %-d, %Y" }}</p>
         <p>{{ post.summary }} </p>
         </div>
