@@ -27,6 +27,22 @@
 		
 
         <item>
+            <title>6: Weird Encouragements</title>
+            <itunes:author>Seth Hein, Shannon Hein</itunes:author>
+            <itunes:subtitle>Wonder &amp;amp; Welcome: 6: Weird Encouragements</itunes:subtitle>
+            <itunes:summary>Shan remembers things friends have said to her that turned out to be weirdly encouraging.</itunes:summary>
+            <itunes:image href="http://localhost:4000/images/itunes.png" />
+            <enclosure url="https://wonder-and-welcome-podcast.s3.us-east-2.amazonaws.com/wow006.mp3" length="912" type="audio/mp3"/>
+            <guid isPermaLink="true">http://localhost:4000/2023/episode-006.html</guid>
+            <pubDate>Tue, 18 Jul 2023 15:21:00 +0000</pubDate>
+            <itunes:duration>15:12</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Shan remembers things friends have said to her that turned out to be weirdly encouraging.  Show notes available at http://localhost:4000/2023/episode-006.html</description>
+            <itunes:keywords>parenting, children, Jesus, discipleship</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>5: In Alphabetical Order</title>
             <itunes:author>Seth Hein, Shannon Hein</itunes:author>
             <itunes:subtitle>Wonder &amp;amp; Welcome: 5: In Alphabetical Order</itunes:subtitle>
