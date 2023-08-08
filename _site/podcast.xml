@@ -27,6 +27,22 @@
 		
 
         <item>
+            <title>7: Prayer and Fasting</title>
+            <itunes:author>Seth Hein, Shannon Hein</itunes:author>
+            <itunes:subtitle>Wonder &amp;amp; Welcome: 7: Prayer and Fasting</itunes:subtitle>
+            <itunes:summary>Seth and Shannon discuss how they have including their children in times of prayer and fasting in the life of their church. There are lots of difficulties, but the work is worth it.</itunes:summary>
+            <itunes:image href="http://localhost:4000/images/itunes.png" />
+            <enclosure url="https://wonder-and-welcome-podcast.s3.us-east-2.amazonaws.com/wow007.mp3" length="2463" type="audio/mp3"/>
+            <guid isPermaLink="true">http://localhost:4000/2023/episode-007.html</guid>
+            <pubDate>Tue, 08 Aug 2023 16:16:00 +0000</pubDate>
+            <itunes:duration>41:03</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Seth and Shannon discuss how they have including their children in times of prayer and fasting in the life of their church. There are lots of difficulties, but the work is worth it.  Show notes available at http://localhost:4000/2023/episode-007.html</description>
+            <itunes:keywords>parenting, children, Jesus, discipleship</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>6: Weird Encouragements</title>
             <itunes:author>Seth Hein, Shannon Hein</itunes:author>
             <itunes:subtitle>Wonder &amp;amp; Welcome: 6: Weird Encouragements</itunes:subtitle>
